@@ -1,0 +1,301 @@
+﻿Número,Fecha (dd/mm/aa),Nombre actividad,Costo,Presupuesto,Tiempo invertido,Tipo,Momento,No. de personas
+1,11/8/2025,snack,32,500,15,alimentos,mañana,1
+2,11/8/2025,Gasolina,220,500,20,transporte,noche,1
+3,12/8/2025,Café ,70,500,20,alimentos,mañana,1
+4,12/8/2025,clase de yoga,150,150,45,deporte,tarde,1
+5,13/08/2025,Comida ,800,1000,120,alimentos,tarde,1
+6,14/08/2025,clase de yoga,150,150,45,deporte,tarde,1
+7,14/08/2025,Saldo de celular,120,200,10,entretenimiento,tarde,1
+8,14/08/2025,Salida con amigas,250,300,180,ocio,tarde,4
+9,15/08/2025,comida,300,300,180,alimentos,tarde,2
+10,16/08/2025,Café ,70,100,60,alimentos,mañana,1
+11,16/08/2025,Clase de yoga,150,150,45,deporte,tarde,1
+12,17/08/2025,Gasolina,650,1000,10,transporte,tarde,1
+13,17/08/2025,Café ,70,1000,20,alimentos,mañana,1
+14,18/08/2025,Café ,90,1000,20,alimentos,mañana,1
+15,19/08/2025,salida con amigas,250,500,160,ocio,noche,4
+16,19/08/2025,clase de yoga,150,500,45,deporte,tarde,1
+17,19/08/2025,café,75,500,20,alimentos,mañana,1
+18,20/08/2025,clase de yoga,150,150,45,deporte,tarde,1
+19,20/08/2025,Clase de yoga,150,150,45,deporte,tarde,1
+20,21/08/2025,snack,30,50,10,alimentos,mañana,1
+21,21/08/2025,Salida con amigas,300,500,180,entretenimiento,tarde,4
+22,21/08/2025,comida,200,500,120,entretenimiento,tarde,3
+23,22/08/2025,Clase de yoga,150,150,45,deporte,tarde,1
+24,23/08/2025,snack,50,100,10,alimentos,mañana,1
+25,23/08/2025,clase de yoga,150,150,45,deporte,tarde,1
+26,24/08/2025,café,280,300,20,alimentos,noche,2
+27,24/08/2025,clase de yoga,150,150,45,deporte,tarde,1
+28,24/08/2025,maquillaje,500,100,60,ocio,tarde,1
+29,25/08/2025,clase de yoga,150,150,45,deporte,tarde,1
+30,26/08/2025,Gasolina,220,300,15,transporte,noche,1
+31,26/08/2025,clase de yoga,150,150,45,deporte,tarde,1
+32,27/08/2025,salida con amigas,160,200,180,ocio,noche,4
+33,28/08/2025,clase de yoga,150,150,45,deporte,tarde,1
+34,28/08/2025,Café y snack ,190,500,40,alimentos,mañana,1
+35,29/08/2025,Ropa,600,1000,120,ocio,tarde,1
+36,29/08/2025,salida con amigas,700,1000,160,ocio,noche,5
+37,30/08/2025,Clase de yoga,145,432,60,deporte,mañana,1
+38,30/08/2025,Elote,50,102,15,alimentos,noche,1
+39,30/08/2025,Gasolina,1446,1646,15,transporte,tarde,1
+40,31/08/2025,Desayuno,172,272,60,alimentos,mañana,2
+41,31/08/2025,Desayuno,95,195,60,alimentos,mañana,3
+42,1/9/2025,Clase de yoga,171,358,60,deporte,mañana,1
+43,1/9/2025,Clase de yoga,129,258,60,deporte,mañana,1
+44,1/9/2025,Starbucks,78,128,15,alimentos,mañana,1
+45,2/9/2025,Clase de yoga,158,314,60,deporte,mañana,1
+46,2/9/2025,Clase de yoga,171,373,60,deporte,mañana,1
+47,3/9/2025,Starbucks,109,159,15,alimentos,mañana,1
+48,3/9/2025,Clase de yoga,160,392,60,deporte,mañana,1
+49,4/9/2025,Elote,80,127,15,alimentos,noche,1
+50,5/9/2025,Desayuno,113,213,60,alimentos,mañana,2
+51,5/9/2025,Desayuno,94,194,60,alimentos,mañana,2
+52,6/9/2025,Clase de yoga,154,287,60,deporte,mañana,1
+53,7/9/2025,Clase de yoga,138,300,60,deporte,mañana,1
+54,8/9/2025,Starbucks,105,155,15,alimentos,mañana,1
+55,8/9/2025,Clase de yoga,166,379,60,deporte,mañana,1
+56,8/9/2025,Clase de yoga,173,365,60,deporte,mañana,1
+57,9/9/2025,Starbucks,117,167,15,alimentos,mañana,1
+58,10/9/2025,Clase de yoga,174,364,60,deporte,mañana,1
+59,10/9/2025,Snack,50,82,15,alimentos,tarde,1
+60,11/9/2025,Desayuno,110,210,60,alimentos,mañana,3
+61,12/9/2025,Desayuno,119,219,60,alimentos,mañana,3
+62,12/9/2025,Clase de yoga,161,395,60,deporte,mañana,1
+63,12/9/2025,Clase de yoga,172,280,60,deporte,mañana,1
+64,13/09/2025,Starbucks,99,149,15,alimentos,mañana,1
+65,14/09/2025,Clase de yoga,170,400,60,deporte,mañana,1
+66,15/09/2025,Clase de yoga,174,402,60,deporte,mañana,1
+67,15/09/2025,Starbucks,114,164,15,alimentos,mañana,1
+68,16/09/2025,Clase de yoga,120,359,60,deporte,mañana,1
+69,17/09/2025,Elote,35,99,15,alimentos,noche,1
+70,18/09/2025,Gasolina,1488,1688,15,transporte,tarde,1
+71,18/09/2025,Desayuno,166,266,60,alimentos,mañana,1
+72,19/09/2025,Desayuno,112,212,60,alimentos,mañana,2
+73,20/09/2025,Clase de yoga,148,430,60,deporte,mañana,1
+74,20/09/2025,Clase de yoga,139,403,60,deporte,mañana,1
+75,20/09/2025,Starbucks,109,159,15,alimentos,mañana,1
+76,21/09/2025,Clase de yoga,162,329,60,deporte,mañana,1
+77,21/09/2025,Clase de yoga,126,393,60,deporte,mañana,1
+78,22/09/2025,Starbucks,93,143,15,alimentos,mañana,1
+79,23/09/2025,Clase de yoga,156,405,60,deporte,mañana,1
+80,23/09/2025,Snack,80,155,15,alimentos,tarde,1
+81,24/09/2025,Desayuno,149,249,60,alimentos,mañana,1
+82,25/09/2025,Desayuno,141,241,60,alimentos,mañana,1
+83,26/09/2025,Clase de yoga,128,266,60,deporte,mañana,1
+84,26/09/2025,Clase de yoga,127,309,60,deporte,mañana,1
+85,27/09/2025,Starbucks,104,154,15,alimentos,mañana,1
+86,28/09/2025,Clase de yoga,135,278,60,deporte,mañana,1
+87,28/09/2025,Clase de yoga,169,345,60,deporte,mañana,1
+88,29/09/2025,Starbucks,101,151,15,alimentos,mañana,1
+89,29/09/2025,Clase de yoga,139,390,60,deporte,mañana,1
+90,29/09/2025,Snack,35,105,15,alimentos,tarde,1
+91,30/09/2025,Desayuno,96,196,60,alimentos,mañana,1
+92,1/10/2025,Desayuno,91,191,60,alimentos,mañana,1
+93,1/10/2025,Clase de yoga,131,360,60,deporte,mañana,1
+94,2/10/2025,Clase de yoga,168,412,60,deporte,mañana,1
+95,3/10/2025,Starbucks,63,113,15,alimentos,mañana,1
+96,3/10/2025,Clase de yoga,150,275,60,deporte,mañana,1
+97,4/10/2025,Clase de yoga,175,297,60,deporte,mañana,1
+98,4/10/2025,Starbucks,62,112,15,alimentos,mañana,1
+99,5/10/2025,Clase de yoga,176,376,60,deporte,mañana,1
+100,6/10/2025,Snack,70,94,15,alimentos,noche,1
+101,6/10/2025,Gasolina,1342,1542,15,transporte,tarde,1
+102,7/10/2025,Desayuno,109,209,60,alimentos,mañana,2
+103,8/10/2025,Desayuno,103,203,60,alimentos,mañana,3
+104,8/10/2025,Clase de yoga,170,420,60,deporte,mañana,1
+105,8/10/2025,Clase de yoga,153,442,60,deporte,mañana,1
+106,9/10/2025,Starbucks,76,126,15,alimentos,mañana,1
+107,10/10/2025,Clase de yoga,143,375,60,deporte,mañana,1
+108,11/10/2025,Clase de yoga,126,267,60,deporte,mañana,1
+109,11/10/2025,Starbucks,68,118,15,alimentos,mañana,1
+110,12/10/2025,Clase de yoga,163,294,60,deporte,mañana,1
+111,12/10/2025,Snack,70,98,15,alimentos,noche,1
+112,13/10/2025,Desayuno,109,209,60,alimentos,mañana,3
+113,13/10/2025,Desayuno,112,212,60,alimentos,mañana,1
+114,14/10/2025,Clase de yoga,145,428,60,deporte,mañana,1
+115,14/10/2025,Clase de yoga,132,357,60,deporte,mañana,1
+116,14/10/2025,Starbucks,113,163,15,alimentos,mañana,1
+117,15/10/2025,Clase de yoga,172,447,60,deporte,mañana,1
+118,16/10/2025,Clase de yoga,175,308,60,deporte,mañana,1
+119,17/10/2025,Starbucks,70,120,15,alimentos,mañana,1
+120,17/10/2025,Clase de yoga,135,327,60,deporte,mañana,1
+121,18/10/2025,Elote,50,89,15,alimentos,noche,1
+122,19/10/2025,Desayuno,163,263,60,alimentos,mañana,2
+123,20/10/2025,Desayuno,151,251,60,alimentos,mañana,2
+124,20/10/2025,Clase de yoga,144,284,60,deporte,mañana,1
+125,21/10/2025,Clase de yoga,166,307,60,deporte,mañana,1
+126,21/10/2025,Starbucks,87,137,15,alimentos,mañana,1
+127,22/10/2025,Clase de yoga,123,398,60,deporte,mañana,1
+128,23/10/2025,Clase de yoga,179,303,60,deporte,mañana,1
+129,23/10/2025,Starbucks,107,157,15,alimentos,mañana,1
+130,24/10/2025,Clase de yoga,169,412,60,deporte,mañana,1
+131,25/10/2025,Snack,45,124,15,alimentos,tarde,1
+132,25/10/2025,Gasolina,974,1174,15,transporte,tarde,1
+133,26/10/2025,Desayuno,142,242,60,alimentos,mañana,2
+134,27/10/2025,Desayuno,147,247,60,alimentos,mañana,3
+135,27/10/2025,Clase de yoga,129,394,60,deporte,mañana,1
+136,28/10/2025,Clase de yoga,170,270,60,deporte,mañana,1
+137,29/10/2025,Starbucks,118,168,15,alimentos,mañana,1
+138,29/10/2025,Clase de yoga,124,234,60,deporte,mañana,1
+139,30/10/2025,Clase de yoga,163,292,60,deporte,mañana,1
+140,31/10/2025,Starbucks,71,121,15,alimentos,mañana,1
+141,31/10/2025,Clase de yoga,139,356,60,deporte,mañana,1
+142,1/11/2025,Snack,80,150,15,alimentos,tarde,1
+143,1/11/2025,Desayuno,91,191,60,alimentos,mañana,3
+144,1/11/2025,Desayuno,101,201,60,alimentos,mañana,3
+145,2/11/2025,Clase de yoga,122,299,60,deporte,mañana,1
+146,3/11/2025,Clase de yoga,174,458,60,deporte,mañana,1
+147,4/11/2025,Starbucks,68,118,15,alimentos,mañana,1
+148,4/11/2025,Clase de yoga,151,425,60,deporte,mañana,1
+149,5/11/2025,Clase de yoga,145,320,60,deporte,mañana,1
+150,6/11/2025,Starbucks,74,124,15,alimentos,mañana,1
+151,6/11/2025,Clase de yoga,174,300,60,deporte,mañana,1
+152,7/11/2025,Snack,80,139,15,alimentos,tarde,1
+153,7/11/2025,Desayuno,91,191,60,alimentos,mañana,3
+154,7/11/2025,Desayuno,174,274,60,alimentos,mañana,2
+155,8/11/2025,Clase de yoga,126,390,60,deporte,mañana,1
+156,9/11/2025,Clase de yoga,180,297,60,deporte,mañana,1
+157,10/11/2025,Starbucks,83,133,15,alimentos,mañana,1
+158,10/11/2025,Clase de yoga,154,302,60,deporte,mañana,1
+159,11/11/2025,Clase de yoga,140,319,60,deporte,mañana,1
+160,11/11/2025,Starbucks,79,129,15,alimentos,mañana,1
+161,11/11/2025,Clase de yoga,147,440,60,deporte,mañana,1
+162,12/11/2025,Elote,70,101,15,alimentos,noche,1
+163,13/11/2025,Gasolina,1251,1451,15,transporte,tarde,1
+164,14/11/2025,Desayuno,163,263,60,alimentos,mañana,1
+165,14/11/2025,Desayuno,174,274,60,alimentos,mañana,2
+166,15/11/2025,Clase de yoga,164,310,60,deporte,mañana,1
+167,16/11/2025,Clase de yoga,160,284,60,deporte,mañana,1
+168,16/11/2025,Starbucks,95,145,15,alimentos,mañana,1
+169,17/11/2025,Clase de yoga,161,417,60,deporte,mañana,1
+170,17/11/2025,Clase de yoga,157,419,60,deporte,mañana,1
+171,18/11/2025,Starbucks,116,166,15,alimentos,mañana,1
+172,18/11/2025,Clase de yoga,161,403,60,deporte,mañana,1
+173,18/11/2025,Snack,50,121,15,alimentos,noche,1
+174,19/11/2025,Desayuno,132,232,60,alimentos,mañana,2
+175,20/11/2025,Desayuno,116,216,60,alimentos,mañana,1
+176,21/11/2025,Clase de yoga,121,344,60,deporte,mañana,1
+177,21/11/2025,Clase de yoga,157,392,60,deporte,mañana,1
+178,22/11/2025,Starbucks,109,159,15,alimentos,mañana,1
+179,22/11/2025,Clase de yoga,139,356,60,deporte,mañana,1
+180,23/11/2025,Clase de yoga,180,435,60,deporte,mañana,1
+181,23/11/2025,Starbucks,67,117,15,alimentos,mañana,1
+182,24/11/2025,Clase de yoga,168,370,60,deporte,mañana,1
+183,24/11/2025,Snack,70,110,15,alimentos,noche,1
+184,25/11/2025,Desayuno,158,258,60,alimentos,mañana,3
+185,25/11/2025,Desayuno,161,261,60,alimentos,mañana,2
+186,26/11/2025,Clase de yoga,147,323,60,deporte,mañana,1
+187,26/11/2025,Clase de yoga,140,267,60,deporte,mañana,1
+188,27/11/2025,Starbucks,104,154,15,alimentos,mañana,1
+189,27/11/2025,Clase de yoga,127,322,60,deporte,mañana,1
+190,28/11/2025,Clase de yoga,164,343,60,deporte,mañana,1
+191,28/11/2025,Starbucks,68,118,15,alimentos,mañana,1
+192,29/11/2025,Clase de yoga,129,229,60,deporte,mañana,1
+193,29/11/2025,Snack,45,116,15,alimentos,tarde,1
+194,29/11/2025,Gasolina,1321,1521,15,transporte,tarde,1
+195,30/11/2025,Desayuno,159,259,60,alimentos,mañana,2
+196,30/11/2025,Desayuno,146,246,60,alimentos,mañana,3
+197,1/12/2025,Clase de yoga,121,398,60,deporte,mañana,1
+198,1/12/2025,Starbucks,73,123,15,alimentos,mañana,1
+199,1/12/2025,Clase de cross,170,301,60,deporte,mañana,1
+200,2/12/2025,Clase de yoga,149,276,60,deporte,mañana,1
+201,2/12/2025,Starbucks,110,160,15,alimentos,mañana,1
+202,,,,,,,,
+203,,,,,,,,
+204,,,,,,,,
+205,,,,,,,,
+206,,,,,,,,
+207,,,,,,,,
+208,,,,,,,,
+209,,,,,,,,
+210,,,,,,,,
+211,,,,,,,,
+212,,,,,,,,
+213,,,,,,,,
+214,,,,,,,,
+215,,,,,,,,
+216,,,,,,,,
+217,,,,,,,,
+218,,,,,,,,
+219,,,,,,,,
+220,,,,,,,,
+221,,,,,,,,
+222,,,,,,,,
+223,,,,,,,,
+224,,,,,,,,
+225,,,,,,,,
+226,,,,,,,,
+227,,,,,,,,
+228,,,,,,,,
+229,,,,,,,,
+230,,,,,,,,
+231,,,,,,,,
+232,,,,,,,,
+233,,,,,,,,
+234,,,,,,,,
+235,,,,,,,,
+236,,,,,,,,
+237,,,,,,,,
+238,,,,,,,,
+239,,,,,,,,
+240,,,,,,,,
+241,,,,,,,,
+242,,,,,,,,
+243,,,,,,,,
+244,,,,,,,,
+245,,,,,,,,
+246,,,,,,,,
+247,,,,,,,,
+248,,,,,,,,
+249,,,,,,,,
+250,,,,,,,,
+251,,,,,,,,
+252,,,,,,,,
+253,,,,,,,,
+254,,,,,,,,
+255,,,,,,,,
+256,,,,,,,,
+257,,,,,,,,
+258,,,,,,,,
+259,,,,,,,,
+260,,,,,,,,
+261,,,,,,,,
+262,,,,,,,,
+263,,,,,,,,
+264,,,,,,,,
+265,,,,,,,,
+266,,,,,,,,
+267,,,,,,,,
+268,,,,,,,,
+269,,,,,,,,
+270,,,,,,,,
+271,,,,,,,,
+272,,,,,,,,
+273,,,,,,,,
+274,,,,,,,,
+275,,,,,,,,
+276,,,,,,,,
+277,,,,,,,,
+278,,,,,,,,
+279,,,,,,,,
+280,,,,,,,,
+281,,,,,,,,
+282,,,,,,,,
+283,,,,,,,,
+284,,,,,,,,
+285,,,,,,,,
+286,,,,,,,,
+287,,,,,,,,
+288,,,,,,,,
+289,,,,,,,,
+290,,,,,,,,
+291,,,,,,,,
+292,,,,,,,,
+293,,,,,,,,
+294,,,,,,,,
+295,,,,,,,,
+296,,,,,,,,
+297,,,,,,,,
+298,,,,,,,,
+299,,,,,,,,
+300,,,,,,,,
